@@ -1,0 +1,10 @@
+name: wine-quality-explorer
+title:
+username: macreighton
+account: macreighton
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17640780
+bundleId: 12320623
+url: https://macreighton.shinyapps.io/wine-quality-explorer/
+version: 1

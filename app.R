@@ -12,7 +12,7 @@
 #             - Classification:  Random Forest Classifier ("good" wine, quality
 #                                >= a user chosen cutoff, vs. "not good")
 #
-# Author  : (your name)
+# Author  : Michael Creighton
 #############################################################################
 
 library(shiny)

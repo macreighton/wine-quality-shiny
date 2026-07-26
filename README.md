@@ -5,7 +5,7 @@ physicochemical lab measurements, built as a walk-through of the full
 **data-science life cycle**: problem definition → data collection → EDA →
 modeling → evaluation → deployment.
 
-**Live app:** https://YOUR-ACCOUNT.shinyapps.io/wine-quality-explorer/ *(update after deploying — see below)*
+**Live app:** https://macreighton.shinyapps.io/wine-quality-explorer/
 
 ## 1. Dataset
 
@@ -26,7 +26,7 @@ properties matter most.
 
 ## 3. Algorithm
 
-**Random Forest** (regression and classification) — an ensemble of
+**Random Forest** (regression and classification) - an ensemble of
 bagged decision trees with random feature subsampling at each split,
 compared against a **Linear Regression** baseline. See the "About &
 Methodology" tab inside the app for the full mathematical derivation
@@ -46,7 +46,7 @@ Four tabs:
 ## 5. Run locally
 
 ```r
-install.packages(c("shiny", "shinythemes", "randomForest", "caret",
+install.packages(c("shiny", "shinythemes", "randomForest",
                     "ggplot2", "reshape2", "DT"))
 shiny::runApp()
 ```
@@ -54,7 +54,7 @@ shiny::runApp()
 Or run straight from GitHub:
 
 ```r
-shiny::runGitHub("wine-quality-shiny", "YOUR-USERNAME")
+shiny::runGitHub("wine-quality-shiny", "macreighton")
 ```
 
 ## 6. Deploy to shinyapps.io
