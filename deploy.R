@@ -25,9 +25,9 @@ rsconnect::deployApp(
   appDir       = ".",
   appName      = "wine-quality-explorer",
   appTitle     = "Wine Quality Explorer",
-  account      = "YOUR-ACCOUNT-NAME",   # change me
+  account      = "macreighton",
   forceUpdate  = TRUE
 )
 
-## After deployment, your app will be live at:
-##   https://YOUR-ACCOUNT-NAME.shinyapps.io/wine-quality-explorer/
+## After deployment, app will be live at:
+##   https://macreighton.shinyapps.io/wine-quality-explorer/
