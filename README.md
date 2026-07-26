@@ -5,7 +5,7 @@ physicochemical lab measurements, built as a walk-through of the full
 **data-science life cycle**: problem definition → data collection → EDA →
 modeling → evaluation → deployment.
 
-**Live app:** https://YOUR-ACCOUNT.shinyapps.io/wine-quality-explorer/ *(update after deploying — see below)*
+**Live app:** https://macreighton.shinyapps.io/wine-quality-explorer/ *(update after deploying — see below)*
 
 ## 1. Dataset
 
